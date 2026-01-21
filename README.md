@@ -1,9 +1,4 @@
-- 👋 DNA (Data & Analytics) engineer here  
-- 🌱 currently learning Databricks
-- 💞️ I’m looking to collaborate on ETL pipeline optimization
+- 👋 I love DNA - Data & Analytics
+- 🌱 currently learning agentinc analytics and Databricks
 - 📫 How to reach me: laniussenatorshrike@gmail.com
 - ✨ Fun Fact: I'm a birdwatcher
-<!---
-LaniusSenatorShrike/LaniusSenatorShrike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

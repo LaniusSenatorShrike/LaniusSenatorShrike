@@ -1,4 +1,4 @@
-- 👋 I love DNA - Data & Analytics
+- 👋 DNA (Data & Analytics) lover and storyteller
 - 🌱 currently learning agentinc analytics and Databricks
 - 📫 How to reach me: laniussenatorshrike@gmail.com
 - ✨ Fun Fact: I'm a birdwatcher
